@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">CS Student aspiring to be a backend engineer. Has strong interest in Java and Node.js</p>
+<p align="left">CS Student aspiring to be a backend engineer. Has strong interest in Java and Node.js. Currently developing <em>CipherLink</em> a real-time encrypted chatapp <em>-using Node.js, Express, Socket.IO</em></p>
 
 ###
 
